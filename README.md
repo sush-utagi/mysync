@@ -7,7 +7,6 @@ Adaptation of the 'rsync' utility
     ```bash
     make
     ```
-2.   ```bash
-   ./mysync  [options]  directory1  directory2  [directory3  ... ]'''
+2.   ```bash  mysync  [options]  directory1  directory2  [directory3  ... ]```
 
 
