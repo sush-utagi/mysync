@@ -19,8 +19,7 @@ To run the Makefile and execute the associated tasks, follow these steps:
 
 ## How to Run 'mysync'
 
-1. with the excecutable in the current working directory, run:
-
    ```bash
    ./mysync  [options]  directory1  directory2  [directory3  ... ]'''
-    ```
+
+
