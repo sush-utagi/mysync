@@ -1,5 +1,5 @@
 # Systems Programming Project
-*Adaptation of the 'rsync' utility*
+_Adaptation of the 'rsync' utility_
 
 ## How to Run 'mysync'
 1. Run in terminal:
