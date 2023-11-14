@@ -9,7 +9,7 @@ Adaptation of the 'rsync' utility
     ```
 2. Now run:
    ```bash
-   mysync  [options]  directory1  directory2  [directory3  ... ]
+   ./mysync  [options]  directory1  directory2  [directory3  ... ]
    ```
 
 
