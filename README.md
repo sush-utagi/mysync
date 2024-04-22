@@ -1,5 +1,15 @@
 # Systems Programming Project: 'mysync'
 
+## Overview
+'mysync' is a lightweight file synchronization utility inspired by the 'rsync' tool. It provides a simple and reliable solution for synchronizing files and directories between two locations. 'mysync' is designed to be easy to use and efficient, making it ideal for basic file synchronization tasks.
+
+## Features
+- **Basic Synchronization**: 'mysync' allows you to synchronize files and directories between two locations using a simple command-line interface.
+- **Efficient File Transfer**: Utilizing checksums and incremental file transfers, 'mysync' minimizes data transfer and ensures accurate synchronization.
+- **Recursive Synchronization**: 'mysync' can be used recursively with any number of directories, allowing you to synchronize entire directory trees effortlessly.
+- **Selective Synchronization**: 'mysync' supports include and exclude patterns, allowing you to selectively synchronize files and directories.
+- **Backup and Restore**: Use 'mysync' to create backups of your files and easily restore them to a previous state.
+
 
 ## How to Run 'mysync'
 1. **Clone the Repository**: Clone the 'mysync' repository to your local machine.
