@@ -18,7 +18,21 @@
    - Replace `[options]` with any additional command-line options you want to use.
    - Replace `directory1`, `directory2`, etc., with the directories you want to synchronize.
 
-4. **Explore Advanced Options**: 'mysync' offers a range of options to customize synchronization behavior. Use the `--help` option to view all available options and their descriptions.
+4. **Explore Advanced Options**: 'mysync' offers a set ofoptions to customize synchronization behavior. Use the `--help` option to view all available options and their descriptions.
+
+## Options
+
+| Option          | Description                                      | Value            |
+|-----------------|--------------------------------------------------|------------------|
+| `-a`            | Synchronize all files, including hidden files    | 0/1              |
+| `-i <pattern>`  | Specify pattern to ignore                        | `<pattern>`      |
+| `-n`            | Disable synchronization (dry run)                | 0/1              |
+| `-o <pattern>`  | Specify pattern to include only                  | `<pattern>`      |
+| `-p`            | Preserve permissions, ownership, and timestamps  | 0/1              |
+| `-r`            | Enable recursive synchronization                 | 0/1              |
+| `-v`            | Enable verbose output                            | 0/1              |
+
+
 
 ## Example Usage
 - Synchronize two directories:
